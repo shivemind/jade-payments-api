@@ -14,7 +14,7 @@ body:
   type: json
   content: |-
     {
-      "amount": 4047.8666674780375,
+      "amount": 9265.550790153828,
       "currency": "string"
     }
 scripts:
@@ -44,10 +44,10 @@ examples:
         content: |-
           {
             "id": "string",
-            "amount": 3815.742463560259,
+            "amount": 3309.701152423703,
             "currency": "string",
-            "status": "pending",
-            "createdAt": "1997-10-03T17:22:50.329Z"
+            "status": "completed",
+            "createdAt": "1988-12-18T21:48:08.092Z"
           }
       headers:
         - key: Content-Type

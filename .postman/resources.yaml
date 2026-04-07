@@ -12,9 +12,9 @@ localResources:
     - ../openapi/payments-api.yaml
 cloudResources:
   collections:
-    ../postman/collections/[Baseline] payments-api: 52400725-248bc276-d0fa-4471-bed6-78a18645a4b3
-    ../postman/collections/[Smoke] payments-api: 52400725-8f750402-3319-40e7-856f-ee85b4f7c453
-    ../postman/collections/[Contract] payments-api: 52400725-5c993b4a-2756-4170-aacd-0e741e32659c
+    ../postman/collections/[Baseline] payments-api: 52400725-5c487075-c45f-4ee9-9eab-036e3b1c077b
+    ../postman/collections/[Smoke] payments-api: 52400725-46f8b2c5-99f5-4e16-add1-85554700e0a9
+    ../postman/collections/[Contract] payments-api: 52400725-c5b14029-8aa0-4f65-ab2c-388638e84d3d
   environments:
     ../postman/environments/prod.postman_environment.json: 52400725-edacc919-912e-4ac3-a263-9c30cfd6f0be
     ../postman/environments/stage.postman_environment.json: 52400725-f62a9ddc-2ca9-40c5-b436-acee99e3f0b6

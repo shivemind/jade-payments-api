@@ -2,7 +2,7 @@ $schema: https://schema.postman.com/json/draft-2020-12/collection/v3.0.0/
 type: collection
 name: '[Baseline] payments-api'
 description: Core banking payments service
-id: 248bc276-d0fa-4471-bed6-78a18645a4b3
+id: 5c487075-c45f-4ee9-9eab-036e3b1c077b
 variables:
   - key: baseUrl
     value: https://stage-api.example.com/payments
