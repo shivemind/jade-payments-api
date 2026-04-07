@@ -12,7 +12,7 @@ localResources:
     - ../openapi/payments-api.yaml
 cloudResources:
   collections:
-    ../postman/collections/[Baseline] payments-api: 52400725-9af02155-6d72-4faa-9f44-d6b9a5a175b5
+    ../postman/collections/[Baseline] payments-api: 52400725-304cdb7e-47f5-4fe8-8c63-2ca009fa258f
     ../postman/collections/[Smoke] payments-api: 52400725-50c20e3e-d5c4-4c47-a737-c3811ccf20ad
     ../postman/collections/[Contract] payments-api: 52400725-83154473-4472-47a7-a0e5-81444c979030
   environments:

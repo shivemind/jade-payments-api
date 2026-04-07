@@ -14,7 +14,7 @@ body:
   type: json
   content: |-
     {
-      "amount": 9747.342250813623,
+      "amount": 2796.4616739925386,
       "currency": "string"
     }
 examples:
@@ -26,10 +26,10 @@ examples:
         content: |-
           {
             "id": "string",
-            "amount": 2570.569394399578,
+            "amount": 9281.10999555496,
             "currency": "string",
             "status": "failed",
-            "createdAt": "1985-12-31T13:50:53.029Z"
+            "createdAt": "1993-12-17T20:19:13.269Z"
           }
       headers:
         - key: Content-Type
