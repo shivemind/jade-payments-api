@@ -81,10 +81,10 @@ examples:
         content: |-
           {
             "id": "string",
-            "amount": 3720.189018006632,
+            "amount": 1790.2416148261314,
             "currency": "string",
-            "status": "pending",
-            "createdAt": "1998-05-02T20:01:39.639Z"
+            "status": "completed",
+            "createdAt": "1994-05-06T23:24:11.280Z"
           }
       headers:
         - key: Content-Type

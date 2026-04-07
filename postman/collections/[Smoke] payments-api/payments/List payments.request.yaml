@@ -36,17 +36,17 @@ examples:
           [
             {
               "id": "string",
-              "amount": 1123.6773056821648,
+              "amount": 1229.1328178613626,
               "currency": "string",
-              "status": "pending",
-              "createdAt": "2023-08-27T14:08:39.272Z"
+              "status": "completed",
+              "createdAt": "1977-07-20T20:53:25.329Z"
             },
             {
               "id": "string",
-              "amount": 1382.2409257074364,
+              "amount": 6591.848258798747,
               "currency": "string",
               "status": "completed",
-              "createdAt": "1974-06-16T16:06:57.745Z"
+              "createdAt": "2013-10-12T07:33:56.984Z"
             }
           ]
       headers:

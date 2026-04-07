@@ -2,7 +2,7 @@ $schema: https://schema.postman.com/json/draft-2020-12/collection/v3.0.0/
 type: collection
 name: '[Smoke] payments-api'
 description: Core banking payments service
-id: 46f8b2c5-99f5-4e16-add1-85554700e0a9
+id: 50c20e3e-d5c4-4c47-a737-c3811ccf20ad
 variables:
   - key: baseUrl
     value: https://stage-api.example.com/payments
