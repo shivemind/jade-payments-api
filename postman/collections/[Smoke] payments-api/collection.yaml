@@ -1,0 +1,12 @@
+$schema: https://schema.postman.com/json/draft-2020-12/collection/v3.0.0/
+type: collection
+name: '[Smoke] payments-api'
+description: Core banking payments service
+id: 8f750402-3319-40e7-856f-ee85b4f7c453
+variables:
+  - key: baseUrl
+    value: https://stage-api.example.com/payments
+    type: any
+items:
+  - ref: ./payments/folder.yaml
+  - ref: ./00 - Resolve Secrets.request.yaml
